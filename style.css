@@ -1,0 +1,14 @@
+.container img {
+    height: 950px;
+ 
+}
+.container-text {
+    position:absolute;
+    top: 40%;
+    color: white;
+    padding: 50px;
+}
+.container-text h2{
+    font-size:66px;
+    
+}
